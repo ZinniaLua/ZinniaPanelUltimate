@@ -40,6 +40,26 @@ This panel builds upon the foundations of its predecessors, enhanced with new fe
 - **Remove Button** – **Destroys** the selected sound instance.
 - **Live Edits** – Modify the **pitch** and **ID** of audios in real-time.
 
+## Supported Games
+Zinnia Panel Ultimate works in the following games:
+
+- Dangerous Truck Driving
+- Deadly Indian Truck Driving
+- Dangerous Cliff Driving 🚚
+- Truck Obby
+- Bus Driver Vietnam 2
+- Drive Brasil
+- Trucking Empire (sound gets deleted after 0.1 seconds)
+- Car Driving Ultimate (this has 64m visits as of writing)
+- My Summer Car
+- Vietnamese Vehicle Driving (works in some servers)
+- [UDP] Car Crash Simulator (not the original)
+- Eldersburg, Maryland Beta
+- Realistic Car Driving Ultimate
+- Offroading Land
+- Ramp Jumping - On Sports Cars
+- Car Crash Simulator 2
+
 ## Community Server
 For discussions, updates, and community support, join the **official server**:
 
